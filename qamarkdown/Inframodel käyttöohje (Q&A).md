@@ -13,6 +13,7 @@ Inframodel skeema ja dokumentaatio sisältävät tietoa sovelluskehittäjille ja
 Inframodel-tiedonsiirtoformaatti tukeutuu Yleisiin inframallivaatimuksiin ja InfraBIM-nimikkeistöjärjstelmään.  
 
 {{figure Kolminaisuus}}
+![Kolminaisuus]({{figure Kolminaisuus.png}} "Kolminaisuus"){{figst Kolminaisuus}}
 
 - Yleiset inframallivaatimukset *(ohje ja vaatimus: mitä ja miten mallinnetaan, laadunvarmistus, lopputuotteen määrittely, mallinnusprosessi jne.)*
 - InfraBIM nimikkeistö *(miten nimetään ja luokitellaan)*
@@ -170,6 +171,7 @@ Lähtitietoaineistot sisältävät ko. pintojen ns. lähtiedot eli pisteet ja vi
 Maaperämallin pintojen lajikoodausta on tarkennettu InfraBIM-nimikkeistössä. Suosituksen mukaisesti maaperämallin tulkinta pitää luokitella tulkintatarkkuuden mukaan ja luokituksesta on tehty valmiit arvojoukot eli luettelo sallituista tietoarvoista.
 
 {{figure maalajipinnat2}}
+![maalajipinnat]({{figure maalajipinnat2.png}} "maalajipinnat"){{figst maalajipinnat2}}
 
 #### Q&A
 
@@ -210,7 +212,7 @@ Linkki dokumentaatioon {{refsec Areas}}
 #### Q&A
 
 ### Water supply and sewerage
-Linkki dokumentaatioon {{refsec Water supply and sewerage}}
+Linkki dokumentaatioon {{refsec watersupplyandsewerage}}
 
 #### Kuivatus
 
@@ -292,7 +294,7 @@ Väylärakenteen toteutusmalli koostuu seuraavista INFRA 2015 rakennusosa- ja ha
 #### Q&A
 
 ### Deep foundations
-Linkki dokumentaatioon {{refsec Deep foundations}}
+Linkki dokumentaatioon {{refsec deepfoundations}}
 
 #### Pilari- ja massastabilointi
 
